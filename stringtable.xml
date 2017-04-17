@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Arms_War">
+
+	<Key ID="STR_TB_missionTitle_TB_Arms_War">
+		<Original>Arms War</Original>
+		<English>Arms War</English>
+		<German>Arms War</German>
+		<Italian>Arms War</Italian>
+		<Spanish>Arms War</Spanish>
+		<French>Arms War</French>
+		<Czech>Arms War</Czech>
+		<Russian>Arms War</Russian>
+		<Polish>Arms War</Polish>
+		<Hungarian>Arms War</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Arms_War">
+		<Original>TacBF A&amp;S[T-10]: Arms War</Original>
+		<English>TacBF A&amp;S[T-10]: Arms War</English>
+		<German>TacBF A&amp;S[T-10]: Arms War</German>
+		<Italian>TacBF A&amp;S[T-10]: Arms War</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Arms War</Spanish>
+		<French>TacBF A&amp;S[T-10]: Arms War</French>
+		<Czech>TacBF A&amp;S[T-10]: Arms War</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Arms War</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Arms War</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Arms War</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
